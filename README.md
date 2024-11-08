@@ -33,8 +33,6 @@ Clone este repositório.
 
 bash
 
-Copiar código
-
 git clone https://github.com/YagoVBS/Password-Manager.git
 
 Instale a biblioteca -> pip install cryptography
